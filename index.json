@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "31399f9034a545b94e0df43776fa2e46bdcac133",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:26:47.977156+00:00"
+    }
+  ]
+}
