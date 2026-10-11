@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "pydantic",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "31399f9034a545b94e0df43776fa2e46bdcac133",
+      "parsed_at": "2026-10-11T19:24:31.932322+00:00",
+      "filetree": "filetree/31399f9034a545b94e0df43776fa2e46bdcac133.nq.gz",
+      "blobs": [
+        "blob/19453b3b5e22ddd100f36d7298a74fbb90358692.nq.gz",
+        "blob/8917885cd2da286d2d00ee02802002d69c628cb6.nq.gz",
+        "blob/f1c8f6a889239bfe348f4135a1efee52cc3cec98.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
